@@ -1,7 +1,7 @@
 # mgmsmartcity
 
 
-Build a smart city and improve on the https://www.montgomeryal.gov/home . website using Java. NodeJs and more.
+Build a smart city website and improve on the https://www.montgomeryal.gov/home website using Java, Python, ReactJs, Bootstrap, NodeJs and more.
 
 
 Will create an updated version of the following sample app.
